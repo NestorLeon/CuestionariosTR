@@ -17,7 +17,7 @@
     "express-session": "^1.15.2",
     "method-override": "^2.3.8",
     "mongoose": "^4.13.14",
-    "pug": "^2.0.0-beta11",
+    "pug": "^3.0.1",
     "redis": "^2.7.1",
     "socket.io": "^1.7.3"
   }
